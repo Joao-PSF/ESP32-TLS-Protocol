@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = '192.168.0.11'
+HOST = 'XXX.XXX.X.XX'
 PORT = 8883
 
 server_socket = socket.socket()
